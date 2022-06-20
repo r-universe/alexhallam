@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "wodds"]
+	path = wodds
+	url = https://github.com/alexhallam/wodds
+	shallow = true
+	registered = true
